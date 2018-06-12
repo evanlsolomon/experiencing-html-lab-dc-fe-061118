@@ -1,6 +1,4 @@
-<a href="https://google.com" >
-<img src="https://media.giphy.com/media/5zjdwaDzHyOxqpiM9d/giphy.gif"/>
-</a>
+<h1>My Favorite Things</h1>
 <ul>
 <li>Apple</li>
 <li>Abby</li>
